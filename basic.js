@@ -1,5 +1,4 @@
-console.log("we are practice basic javascript")
-
+console.log("we are practice basic javascript");
 var name = "Gaus Al Munir Tushar";
 var age = 20;
 var address = "Rangpur";
