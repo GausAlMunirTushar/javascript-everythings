@@ -1,0 +1,19 @@
+[
+{
+    "person1":{
+        "name":"Tushar",
+        "age":23,
+        "address":"rangpur"
+    },
+    "person2":{
+        "name":"Tushar",
+        "age":23,
+        "address":"rangpur"
+    },
+    "person3":{
+        "name":"Tushar",
+        "age":23,
+        "address":"rangpur"
+    }
+}
+]
